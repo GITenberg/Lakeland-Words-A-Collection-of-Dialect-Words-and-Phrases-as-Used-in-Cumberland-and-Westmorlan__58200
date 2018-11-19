@@ -1,5 +1,5 @@
 _repo: Lakeland-Words-A-Collection-of-Dialect-Words-and-Phrases-as-Used-in-Cumberland-and-Westmorlan__58200
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Wright, Joseph
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '25463'
     url: http://www.gutenberg.org/2009/agents/25463
+covers:
+- cover_type: archival
+  image_path: 58200-h/images/cover.jpg
 creator:
   author:
     agent_name: Kirkby, Bryham
     gutenberg_agent_id: '49822'
     url: http://www.gutenberg.org/2009/agents/49822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58200#Lakeland-Words-A-Collection-of-Dialect-Words-and-Phrases-as-Used-in-Cumberland-and-Westmorlan_
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
